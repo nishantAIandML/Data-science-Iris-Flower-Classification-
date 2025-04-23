@@ -29,10 +29,10 @@ A short explanation of the dataset and its columns:
 - Discussion of which features are most useful
 - Highlight: **Petal Length** is most discriminative
 - Include saved image references like:
-  - `Screenshot(551).png`
-  - `Screenshot(552).png`
-  - `Screenshot(553).png`
-  - `Screenshot(554).png`
+  - `feature1.png.png`
+  - `feature2.png.png`
+  - `feature3.png.png`
+  - `Heatmap.png.png`
 
 ## 🧠 Machine Learning Models
 ### 1. Neural Network (Keras)
